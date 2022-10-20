@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: 'Gantari', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html{
+  scroll-behavior: smooth;
+  background-color: whitesmoke;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
