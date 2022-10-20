@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dshryu/static/css/main.a449b4ad.css",
+    "main.js": "/dshryu/static/js/main.92e75e1a.js",
+    "static/media/topology.png": "/dshryu/static/media/topology.1fae917ef31d3953a89e.png",
+    "static/media/overlay.png": "/dshryu/static/media/overlay.750cb7fa878cef5ad92c.png",
+    "static/media/hello.png": "/dshryu/static/media/hello.4477872f35ebc8fcf2ec.png",
+    "index.html": "/dshryu/index.html",
+    "main.a449b4ad.css.map": "/dshryu/static/css/main.a449b4ad.css.map",
+    "main.92e75e1a.js.map": "/dshryu/static/js/main.92e75e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a449b4ad.css",
+    "static/js/main.92e75e1a.js"
+  ]
+}
