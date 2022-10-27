@@ -13,7 +13,7 @@ export default function Nav() {
         </div>
         <div className="navItem">
           <a
-            href="danie1r.github.io/dshryu/resume.pdf"
+            href="/dshryu/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
